@@ -1,2 +1,3 @@
-# jenkins_nginx
-Jenkins with NGINX proxy. Everything runs in Docker
+# Jenkins and Nginx, using Docker Compose
+
+Docs coming up for this one. Stay tuned
